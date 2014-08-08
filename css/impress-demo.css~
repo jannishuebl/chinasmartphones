@@ -402,7 +402,7 @@ a:focus {
     font-size: 78px;
 }
 #imagination2, #imagination3, #imagination4, #imagination5 {
-    width: 1000px;
+    width: 1200px;
 }
 
 
