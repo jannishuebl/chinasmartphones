@@ -186,7 +186,7 @@
         
     -->
     <div id="tiny1" class="step" data-x="2825" data-y="3400" data-z="-3000" data-rotate="300" data-scale="1">
-	    <p style="font-size:64px">Wathsapp and Facebook in <strong>ONE</strong> app</p>
+	    <p style="font-size:64px">WhatsApp and Facebook in <strong>ONE</strong> app</p>
     </div>
     <div id="tiny" class="step" data-x="2825" data-y="2325" data-z="-3000" data-rotate="300" data-scale="1">
 	<p style="font-size:64px">Users of social network decline</p>
@@ -213,14 +213,16 @@
         
     -->
     <div id="ing" class="step" data-x="4500" data-y="-850" data-rotate="270" data-scale="2">
-<p>Apps for buying <b class="positioning">Coupons</b></p>
+	    <ul>
+		    <li>Apps for buying <b class="positioning">Coupons</b></li>
+<li>Allow a discount for almost <b class="rotating">everything</b> </li>
+<li>Read <b class="positioning">books</b></li>
+<li>Pay <b class="rotating">bills</b></li>
+<li>Online <b class="scaling">shopping</b></li>
+<li><strong>Taobao</strong> (branded products for less money)</li>
+	    </ul>
 	
 	
-<p>Allow a discount for almost <b class="rotating">everything</b> </p>
-<p>Read <b class="positioning">books</b></p>
-<p>Pay <b class="rotating">bills</b></p>
-<p>Online <b class="scaling">shopping</b></p>
-<p><strong>Taobao</strong> (branded products for less money)</p>
 	
 
 
@@ -230,56 +232,65 @@
 
     
     <div id="imagination" class="step" data-x="7800" data-y="-300" data-scale="5">
-	    <p style="font-size:60px"><b style="font-size:100px">Adolescents</b> use them for..</h1>
-	    <p>Play Games</p>
-	    <p>Show the smartphone (iPhone)</p>
-	    <p>Calling mom and dad for news at school</p>
-	    <p>Chatting</p>
-	    <p>Post news </p>
+	    <p style="font-size:60px"><b style="font-size:100">Adolescents</b> use them for..</h1>
+    <ul>
+	    <li>Play Games</li>
+	    <li>Show the smartphone (iPhone)</li>
+	    <li>Calling mom and dad for news at school</li>
+	    <li>Chatting</li>
+	    <li>Post news </li>
+    </ul>
     </div>
     <div id="imagination2" class="step" data-x="7800" data-y="-6600" data-scale="6">
 	    <p style="font-size:60px"><b style="font-size:100px">Students</b> use them for..</h1>
-    <p>Documents for the university</p>
-    <p>Timetable </p>
-    <p>Location plan for the campus</p>
-    <p>Chatting</p>
-    <p>Post news </p>
-    <p>Make "cute" photos </p>
+    <ul>
+    <li>Documents for the university</li>
+    <li>Timetable </li>
+    <li>Location plan for the campus</li>
+    <li>Chatting</li>
+    <li>Post news </li>
+    <li>Make "cute" photos </li>
+    </ul>
     </div>
 
     <div id="imagination3" class="step" data-x="10800" data-y="-3600" data-scale="6">
 	    <p style="font-size:60px"><b style="font-size:100px">Adults</b> use them for..</h1>
-    <p>Play games </p>
-    <p>Watch TV-shows</p>
-    <p>Different flat rates</p>
-    <p>One flat rate for family</p>
-    <p>Quick dialing </p>
-    <p>Chatting with family and friends</p>
-    <p>Posting news about them and their family </p>
+    <ul>
+    <li>Play games </li>
+    <li>Watch TV-shows</li>
+    <li>Different flat rates</li>
+    <li>One flat rate for family</li>
+    <li>Quick dialing </li>
+    <li>Chatting with family and friends</li>
+    <li>Posting news about them and their family </li>
+    </ul>
     </div>
 
     <div id="imagination4" class="step" data-x="14800" data-y="-600" data-scale="3">
 	    <p style="font-size:40px"><b style="font-size:100px">IN business</b> use them for..</h1>
-    <p>Time scheduling</p>
-    <p>One smartphone for business (customers, business partner)</p>
-    <p>One smartphone for family</p>
-    <p>Quick dialing </p>
-    <p>Always newest smartphone</p>
-    <p>To show "I have money"</p>
+    <ul>
+    <li>Time scheduling</li>
+    <li>One smartphone for business (customers, business partner)</li>
+    <li>One smartphone for family</li>
+    <li>Quick dialing </li>
+    <li>Always newest smartphone</li>
+    <li>To show "I have money"</li>
+    </ul>
     
     </div>
 
     <div id="imagination5" class="step" data-x="14800" data-y="2500" data-scale="3">
 	    <p style="font-size:20px"><b style="font-size:80px">Elderly population</b> use them for..</h1>
     
-    <p>Toy</p>
-    <p>Watch TV-shows</p>
-    <p>Make photos</p>
-    <p>Doesn't really know how to handle the smartphone</p>
+    <ul>
+    <li>Toy</li>
+    <li>Watch TV-shows</li>
+    <li>Make photos</li>
+    <li>Doesn't really know how to handle the smartphone</li>
+    </ul>
     </div>
     <div id="source" class="step" data-x="6300" data-y="2000" data-rotate="20" data-scale="4">
-        <p>want to know more?</p>
-        <q><a href="http://github.com/bartaz/impress.js">use the source</a>, Luke!</q>
+	    <a href="http://de.statista.com/statistik/daten/studie/209284/umfrage/marktanteile-der-smartphone-hersteller-in-deutschland/"><img src="http://de.statista.com/graphic/1/209284/marktanteile-der-smartphone-hersteller-in-deutschland.jpg" alt="Statistik: Marktanteile der Hersteller an der Smartphone-Nutzung in Deutschland von Juni 2011 bis September 2013 | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Mehr Statistiken finden Sie bei <a href="http://de.statista.com">Statista</a>
     </div>
 
     <div id="one-more-thing" class="step" data-x="6000" data-y="4000" data-scale="2">
