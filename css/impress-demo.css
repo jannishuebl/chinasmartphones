@@ -421,6 +421,11 @@ a:focus {
     font-size: 15px;
 }
 
+#source5 {
+    width: 1200px;
+    font-size: 15px;
+}
+
 #source q {
     font-size: 60px;
 }
@@ -430,6 +435,10 @@ a:focus {
     font-size: 15px;
 }
 
+#source6 {
+    width: 1200px;
+    font-size: 15px;
+}
 #source3 {
     width: 1200px;
     font-size: 15px;
@@ -439,6 +448,10 @@ a:focus {
      margin-left: 100px;
    }
 
+#source4 {
+    width: 1200px;
+    font-size: 15px;
+}
 /*
     And the "it's in 3D" step again brings some 3D typography - just for fun.
 
