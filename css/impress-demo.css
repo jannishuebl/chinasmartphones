@@ -304,6 +304,7 @@ a:focus {
 #big {
     width: 1000px;
     font-size: 60px;
+    text-align: center;
     line-height: 1;
 }
 
@@ -322,7 +323,7 @@ a:focus {
     'Tiny ideas' just need some tiny styling.
 */
 #tiny {
-    width: 500px;
+    width: 900px;
     text-align: center;
 }
 
@@ -422,6 +423,7 @@ a:focus {
 }
 
 #source5 {
+    text-align: center;
     width: 1200px;
     font-size: 15px;
 }
@@ -432,14 +434,17 @@ a:focus {
 
 #source2 {
     width: 1200px;
+    text-align: center;
     font-size: 15px;
 }
 
 #source6 {
+    text-align: center;
     width: 1200px;
     font-size: 15px;
 }
 #source3 {
+    text-align: center;
     width: 1200px;
     font-size: 15px;
 }
@@ -449,9 +454,17 @@ a:focus {
    }
 
 #source4 {
+    text-align: center;
     width: 1200px;
     font-size: 15px;
 }
+.rotate90 {
+      -webkit-transform: rotate(-90deg);
+          -moz-transform: rotate(-90deg);
+              -o-transform: rotate(-90deg);
+                  -ms-transform: rotate(-90deg);
+                      transform: rotate(-90deg);
+                    }
 /*
     And the "it's in 3D" step again brings some 3D typography - just for fun.
 
